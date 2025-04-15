@@ -1,0 +1,9 @@
+2:I[7831,[],""]
+3:I[7010,["289","static/chunks/289-b8d69bdb02fce226.js","623","static/chunks/623-adb59b4f9177d2e8.js","931","static/chunks/app/page-3f865d3a4fa93afa.js"],""]
+4:I[9559,["289","static/chunks/289-b8d69bdb02fce226.js","792","static/chunks/792-6ba58bd1863d95ea.js","460","static/chunks/460-9c4007f3060cb6ca.js","185","static/chunks/app/layout-24d733d2edd037ff.js"],""]
+5:I[5613,[],""]
+6:I[1778,[],""]
+7:I[8667,["792","static/chunks/792-6ba58bd1863d95ea.js","160","static/chunks/app/not-found-994d7fcceefc5024.js"],""]
+0:["zKFNBxLtyiB8t3uE1RHtW",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"propsForComponent":{"params":{}},"Component":"$3","isStaticGeneration":true}],null]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__className_d65c78","children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L7",null,{}],"notFoundStyles":[],"styles":null}]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/be3f1557b75389d5.css","precedence":"next","crossOrigin":""}]],"$L8"]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Indie Maker Stack"}],["$","meta","3",{"name":"description","content":"Build your business with the Indie Maker Stack"}],["$","link","4",{"rel":"icon","href":"/indie-maker-logo.svg"}]]
+1:null
